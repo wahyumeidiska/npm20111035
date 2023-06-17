@@ -1,7 +1,11 @@
 <?php
-   $umur=6;
-   if ($umur<7) {
+$umur = 6;
+if ($umur < 7) {
   echo "kamu dapat diskon";
-   } else {
+} else {
   echo "kamu tak dapat";
-   }
+}
+  //  git status
+  // git add .
+  // git commit -m'buat pesan perubahan;
+  // git push
